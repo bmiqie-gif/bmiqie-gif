@@ -1,24 +1,28 @@
-# Profiel-instellingen GitHub (bmiqie-gif)
+### Hi, I'm Bmiqie
 
-Plakken op https://github.com/settings/profile
+Web developer from the Netherlands. I build fast, clean websites and web apps, and small tools that make everyday work easier.
 
-- **Name:** Bmiqie
-- **Bio:** Web developer from NL. Websites, web apps and small tools. Discord: @bmiqie
-- **Location:** Netherlands
-- **Display local time:** aan (Europe/Amsterdam)
-- **Public email:** leeg laten (spam). Contact gaat via Discord @bmiqie.
-- **URL:** https://study.bmiqie.nl
-- **Social accounts:** leeg, Discord kan GitHub daar niet als link tonen, staat al in bio en README
-- **Status** (klik je profielfoto, Set status): 🛠️ Building a simple tool people actually use
-- **Avatar:** zelfde logo als op je sites, vierkant, minstens 400x400
+### Web projects
 
-## Links in de README
+| Project | What it does | Built with |
+|---|---|---|
+| [study.bmiqie.nl](https://study.bmiqie.nl) | Learning platform for exam prep: a step-by-step learning path, accounts, friends and a leaderboard. | React, Vite, Tailwind, Supabase |
+| [Mack Bor Atelier](https://mack-bor-atelier.mack-bor-atelier.workers.dev) | Portfolio and webshop for a textile artist, with a CMS for products and online payments. | React, Sanity, Mollie, Cloudflare |
 
-Repos zijn privé, dus de README linkt alleen naar live sites (study.bmiqie.nl, Mack Bor op
-workers.dev). Dynamic Island heeft geen link. Zet je een repo later openbaar, dan kan de naam
-in de tabel een link worden: `[Naam](https://github.com/bmiqie-gif/<repo>)`.
+### Tools
 
-Niet op het profiel: muziek/DJ-projecten, Uren-app, Smooth Cursor.
-Nooit uploaden: `.env`-bestanden en API-sleutels (Supabase, Sanity, Mollie).
+| Project | What it does | Built with |
+|---|---|---|
+| Dynamic Island for Windows | Windows mod that adds an Apple-style Dynamic Island to the top of the screen. | C++, Windhawk |
 
-Pinnen kan alleen met openbare repos. Zolang alles privé is, pin je alleen de repo `bmiqie-gif`.
+### Tech
+
+[![Tech](https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,supabase,cloudflare,python,cpp,git)](https://skillicons.dev)
+
+### Currently
+
+Building a simple tool that people can actually use day to day.
+
+### Contact
+
+Need a website or have a question? Add me on Discord: **@bmiqie**
