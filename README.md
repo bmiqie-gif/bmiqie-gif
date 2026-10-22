@@ -1,27 +1,24 @@
-[README.md](https://github.com/user-attachments/files/33817484/README.md)
-### Hi, I'm Bmiqie
+# Profiel-instellingen GitHub (bmiqie-gif)
 
-Web developer from the Netherlands. I build fast, clean websites and web apps, and small tools that make everyday work easier.
+Plakken op https://github.com/settings/profile
 
-### Web projects
+- **Name:** Bmiqie
+- **Bio:** Web developer from NL. Websites, web apps and small tools. Discord: @bmiqie
+- **Location:** Netherlands
+- **Display local time:** aan (Europe/Amsterdam)
+- **Public email:** leeg laten (spam). Contact gaat via Discord @bmiqie.
+- **URL:** https://study.bmiqie.nl
+- **Social accounts:** leeg, Discord kan GitHub daar niet als link tonen, staat al in bio en README
+- **Status** (klik je profielfoto, Set status): 🛠️ Building a simple tool people actually use
+- **Avatar:** zelfde logo als op je sites, vierkant, minstens 400x400
 
-| Project | What it does | Built with |
-|---|---|---|
-| [study.bmiqie.nl](https://study.bmiqie.nl) | Learning platform for exam prep: a step-by-step learning path, accounts, friends and a leaderboard. | React, Vite, Tailwind, Supabase |
-| [Mack Bor Atelier](https://mack-bor-atelier.vercel.app) | Portfolio and webshop for a textile artist, with a CMS for products and online payments. | React, Sanity, Mollie, Vercel |
-| [Uren-app](https://github.com/bmiqie-gif/urenapp) | Installable web app (PWA) to track work hours, works offline and exports to CSV. | HTML, CSS, JavaScript |
+## Links in de README
 
-### Tools
+Repos zijn privé, dus de README linkt alleen naar live sites (study.bmiqie.nl, Mack Bor op
+workers.dev). Dynamic Island heeft geen link. Zet je een repo later openbaar, dan kan de naam
+in de tabel een link worden: `[Naam](https://github.com/bmiqie-gif/<repo>)`.
 
-| Project | What it does | Built with |
-|---|---|---|
-| [Smooth Cursor](https://github.com/bmiqie-gif/smooth-cursor) | Tray app that draws a smoothed cursor over the real one, for cleaner screen recordings. | Python, PyQt5 |
-| [Dynamic Island for Windows](https://github.com/bmiqie-gif/windhawk-dynamic-island) | Windows mod that adds an Apple-style Dynamic Island to the top of the screen. | C++, Windhawk |
+Niet op het profiel: muziek/DJ-projecten, Uren-app, Smooth Cursor.
+Nooit uploaden: `.env`-bestanden en API-sleutels (Supabase, Sanity, Mollie).
 
-### Tech
-
-[![Tech](https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,supabase,python,cpp,git,vercel)](https://skillicons.dev)
-
-### Currently
-
-Building a simple tool that people can actually use day to day.
+Pinnen kan alleen met openbare repos. Zolang alles privé is, pin je alleen de repo `bmiqie-gif`.
